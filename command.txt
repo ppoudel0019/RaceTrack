@@ -1,0 +1,55 @@
+set xrange [0:80]
+set yrange [0:80]
+set terminal png size 1000,800 
+set output 'track.png'
+set output '1output.png'
+plot 'racetrack_data.txt' with linespoints,'output1.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '2output.png'
+plot 'racetrack_data.txt' with linespoints,'output2.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '3output.png'
+plot 'racetrack_data.txt' with linespoints,'output3.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '4output.png'
+plot 'racetrack_data.txt' with linespoints,'output4.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '5output.png'
+plot 'racetrack_data.txt' with linespoints,'output5.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '6output.png'
+plot 'racetrack_data.txt' with linespoints,'output6.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '7output.png'
+plot 'racetrack_data.txt' with linespoints,'output7.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '8output.png'
+plot 'racetrack_data.txt' with linespoints,'output8.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '9output.png'
+plot 'racetrack_data.txt' with linespoints,'output9.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '10output.png'
+plot 'racetrack_data.txt' with linespoints,'output10.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '11output.png'
+plot 'racetrack_data.txt' with linespoints,'output11.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '12output.png'
+plot 'racetrack_data.txt' with linespoints,'output12.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '13output.png'
+plot 'racetrack_data.txt' with linespoints,'output13.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '14output.png'
+plot 'racetrack_data.txt' with linespoints,'output14.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '15output.png'
+plot 'racetrack_data.txt' with linespoints,'output15.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '16output.png'
+plot 'racetrack_data.txt' with linespoints,'output16.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '17output.png'
+plot 'racetrack_data.txt' with linespoints,'output17.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '18output.png'
+plot 'racetrack_data.txt' with linespoints,'output18.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '19output.png'
+plot 'racetrack_data.txt' with linespoints,'output19.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '20output.png'
+plot 'racetrack_data.txt' with linespoints,'output20.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '21output.png'
+plot 'racetrack_data.txt' with linespoints,'output21.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '22output.png'
+plot 'racetrack_data.txt' with linespoints,'output22.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '23output.png'
+plot 'racetrack_data.txt' with linespoints,'output23.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '24output.png'
+plot 'racetrack_data.txt' with linespoints,'output24.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+set output '25output.png'
+plot 'racetrack_data.txt' with linespoints,'output25.txt' with circles linecolor rgb "#ff8000" fill solid noborder
+ circles linecolor rgb "#ff8000" fill solid noborder

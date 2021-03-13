@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1551689162 source:z:\cs250\carfinals\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1551688367 z:\cs250\carfinals\car.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<cmath>
+
+1553321391 source:z:\cs250\messup\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1553321017 z:\cs250\messup\car.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<cmath>
+
+1553365012 source:z:\cs250\messing\main.cpp
+	<iostream>
+	<fstream>
+	"car.h"
+
+1553359973 z:\cs250\messing\car.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<cmath>
+
